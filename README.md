@@ -1,7 +1,7 @@
 <!-- 1) CABEÇALHO ANIMADO (capsule-render) -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vasco%20Caetano&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20and%20Engineering%20%40%20IST&descAlignY=58&descSize=18" />
 
-<!-- 2) TEXTO A ESCREVER-SE SOZINHO (readme-typing-svg) -->
+<!-- 2) TEXTO A "ESCREVER-SE" SOZINHO (readme-typing-svg) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2C9AB7&center=true&vCenter=true&width=600&lines=MSc+Data+Science+%26+Engineering+%40+IST;Telecom+%26+Computer+Engineering+background;Building+motorcycle+telemetry+tools+%F0%9F%8F%8D%EF%B8%8F" />
 </p>
@@ -35,6 +35,7 @@
 <!-- Cada <details> funciona como uma "pasta" que abre e fecha.
      O atributo "open" faz com que comece aberta; tira-o se a quiseres fechada. -->
 
+<!-- PERSONAL PROJECTS (escondido por agora; para voltar a mostrar, apaga esta linha e a linha FIM mais abaixo)
 <details open>
 <summary><h3>🚀 Personal projects</h3></summary>
 
@@ -46,8 +47,9 @@
 | ⚖️ **[Legal Research Tool](https://github.com/vascocaetano14/NOME_DO_REPO)** | Case-by-case search using semantic vector similarity. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
 
 </details>
+FIM PERSONAL PROJECTS -->
 
-<details>
+<details open>
 <summary><h3>🎓 University projects (IST)</h3></summary>
 
 <br>
