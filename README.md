@@ -54,6 +54,14 @@ FIM PERSONAL PROJECTS -->
 
 <br>
 
+#### 🎓 MSc in Data Science and Engineering
+
+| Project | Course | Description | Stack |
+|---|---|---|---|
+| 🧱 **[Evolution of LEGO Sets](https://github.com/vascocaetano14/lego-sets-evolution-dashboard)** | Information Visualization | Interactive dashboard with four linked views on ~20,000 LEGO sets (1949–2026). | ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?logo=d3dotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+
+#### 📡 BSc in Telecommunications and Computer Engineering
+
 | Project | Course | Description | Stack |
 |---|---|---|---|
 | 💉 **[Vaccine Management System](https://github.com/vascocaetano14/vaccine-management-c)** | Introduction to Algorithms and Data Structures | Command-line system to manage vaccine batches and vaccinations, with dynamic memory and input validation. | ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) |
@@ -66,7 +74,6 @@ FIM PERSONAL PROJECTS -->
 | 🔐 **[RedVector](https://github.com/vascocaetano14/redvector-network-security)** | Network and Computer Security | Fictional company infrastructure with a micro-segmented network: VPN, firewalls and IDS. | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |
 | 📊 **[Robust PCA](https://github.com/vascocaetano14/robust-pca-computer-hardware)** | Statistical Methods for Artificial Intelligence | Classic vs. robust PCA and outlier detection on hardware data. | ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) |
 | 🌱 **[Soil pH Regression](https://github.com/vascocaetano14/soil-ph-regression-analysis)** | Statistical Methods for Artificial Intelligence | Linear regression and variable selection to explain soil acidity. | ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) |
-| 🧱 **[Evolution of LEGO Sets](https://github.com/vascocaetano14/lego-sets-evolution-dashboard)** | Information Visualization | Interactive dashboard with four linked views on ~20,000 LEGO sets (1949–2026). | ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?logo=d3dotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 
 
 
