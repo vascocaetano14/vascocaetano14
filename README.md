@@ -58,7 +58,6 @@ FIM PERSONAL PROJECTS -->
 |---|---|---|---|
 | 💉 **[Vaccine Management System](https://github.com/vascocaetano14/vaccine-management-c)** | Introduction to Algorithms and Data Structures | Command-line system to manage vaccine batches and vaccinations, with dynamic memory and input validation. | ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) |
 | 🚀 **[Beyond Mars](https://github.com/vascocaetano14/beyond-mars-assembly-game)** | Computer Architecture | Space game written in assembly for a 16-bit processor: keypad, pixel graphics, sound and displays. | ![Assembly](https://img.shields.io/badge/Assembly-PEPE--16-6E4C13) |
-| 🚧 *Coming soon* | Object-Oriented Programming | — | — |
 | 👾 **[PacmanIST](https://github.com/vascocaetano14/pacmanist-multiplayer-server)** | Operating Systems | Pac-Man-style game server: threads, fork, named pipes and signals. | ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) |
 | ✈️ **[Flight Booking Database](https://github.com/vascocaetano14/flight-booking-database)** | Databases | Airline database with triggers, a REST API, OLAP queries and indexes. | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) |
 | 🤝 **[HumanaEthica](https://github.com/vascocaetano14/humanaethica-volunteering-platform)** | Software Engineering | New features for an open-source volunteering platform, with tests at every level. | ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white) |
@@ -67,11 +66,15 @@ FIM PERSONAL PROJECTS -->
 | 🔐 **[RedVector](https://github.com/vascocaetano14/redvector-network-security)** | Network and Computer Security | Fictional company infrastructure with a micro-segmented network: VPN, firewalls and IDS. | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |
 | 📊 **[Robust PCA](https://github.com/vascocaetano14/robust-pca-computer-hardware)** | Statistical Methods for Artificial Intelligence | Classic vs. robust PCA and outlier detection on hardware data. | ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) |
 | 🌱 **[Soil pH Regression](https://github.com/vascocaetano14/soil-ph-regression-analysis)** | Statistical Methods for Artificial Intelligence | Linear regression and variable selection to explain soil acidity. | ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) |
-| 🚧 *Coming soon* | Information Visualization | — | — |
+| 🧱 **[Evolution of LEGO Sets](https://github.com/vascocaetano14/lego-sets-evolution-dashboard)** | Information Visualization | Interactive dashboard with four linked views on ~20,000 LEGO sets (1949–2026). | ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?logo=d3dotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 
 
 
 <!-- Para adicionar um projeto, copia uma linha da tabela e altera-a. -->
+
+<!-- PO escondido por agora (para mostrar, coloca esta linha na tabela, a seguir ao Beyond Mars):
+| 🚧 *Coming soon* | Object-Oriented Programming | — | — |
+-->
 
 </details>
 
